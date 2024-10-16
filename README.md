@@ -1,16 +1,17 @@
-## Hi there 👋
+### PYTHON BACKEND DEVELOPER  
+## Igor Voronov
+**Studing in SUAI**  
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ISSSSA)
 
-<!--
-**ISSSSA/ISSSSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Languages stats:  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISSSSA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+### My favourite quote:  
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Achivements:  
+[![trophy](https://github-profile-trophy.vercel.app/?username=anuraghazra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### More stats:  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISSSSA&show_icons=true&theme=radical)
