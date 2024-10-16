@@ -11,7 +11,7 @@
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### Achivements:  
-[![trophy](https://github-profile-trophy.vercel.app/?username=anuraghazra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ISSSSA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### More stats:  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISSSSA&show_icons=true&theme=radical)
